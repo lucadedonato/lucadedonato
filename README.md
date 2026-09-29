@@ -4,14 +4,14 @@
   Student at ESPM | Data Engineer
 </p>
 
-<!-- Snake -->
+<!-- snake -->
 <p align="center">
-  <img src="https://github.com/lucaddonato/lucaddonato/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/lucadedonato/lucadedonato/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 <br/>
 
-<!-- Programming -->
+<!-- programming -->
 <h2>Programming</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-216E39?style=for-the-badge&logo=python&logoColor=white">
@@ -23,7 +23,7 @@
 
 <br/>
 
-<!-- Databases -->
+<!-- databases -->
 <h2>Databases</h2>
 <p>
   <img src="https://img.shields.io/badge/MySQL-44E376?style=for-the-badge&logo=mysql&logoColor=white">
@@ -36,7 +36,7 @@
 
 <br/>
 
-<!-- Cloud -->
+<!-- cloud -->
 <h2>Cloud</h2>
 <p>
   <img src="https://img.shields.io/badge/Google%20Cloud-216E39?style=for-the-badge&logo=googlecloud&logoColor=white">
@@ -47,6 +47,7 @@
 
 <br/>
 
+<!-- data visualization -->
 <h2>Data Visualization</h2>
 <p>
   <img src="https://img.shields.io/badge/Tableau-44E376?style=for-the-badge&logo=tableau&logoColor=white">
@@ -55,7 +56,7 @@
 
 <br/>
 
-<!-- Tools -->
+<!-- tools -->
 <h2>Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/Docker-44E376?style=for-the-badge&logo=docker&logoColor=white">
@@ -73,7 +74,7 @@
 
 <br/>
 
-<!-- Libraries -->
+<!-- libraries -->
 <h2>Libraries & Frameworks</h2>
 <p>
   <img src="https://img.shields.io/badge/Pandas-216E39?style=for-the-badge&logo=pandas&logoColor=white">
